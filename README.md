@@ -22,3 +22,6 @@ testing list icons(*, +, -)
 testing image
 ![Alt text]
 (/path/to/https://vrthumb.imagetoday.co.kr/2025/03/13/tip2440024385.jpg)
+
+사이트 만들기: index.htlm 파일 이용.
++생성형AI 적극적 활용
