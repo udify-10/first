@@ -20,5 +20,5 @@ testing blackquote
 testing list icons(*, +, -)
 
 testing image
-![
-(https://vrthumb.imagetoday.co.kr/2025/03/13/tip2440024385.jpg)]
+![Alt text]
+(/path/to/https://vrthumb.imagetoday.co.kr/2025/03/13/tip2440024385.jpg)
